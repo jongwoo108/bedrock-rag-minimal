@@ -51,9 +51,18 @@ bedrock-rag-minimal/
   ]
 }
 ```
+## Roadmap
+- [x] Minimal RAG (Claude 3 Sonnet + Titan Embeddings + FAISS)
+- [ ] OpenSearch 기반 벡터 검색 확장
+- [ ] LangChain 통합 (Retriever/Agent 구조)
+- [ ] Dockerfile + GitHub Actions CI/CD
+- [ ] AWS EKS 환경 배포 (실서비스용)
 
 ## License
 MIT
 ## References
 - https://aws.amazon.com/ko/bedrock/
 - https://github.com/facebookresearch/faiss
+
+
+
