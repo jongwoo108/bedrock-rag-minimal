@@ -2,6 +2,7 @@
 ![Python](https://img.shields.io/badge/python-3.10+-blue)
 ![AWS Bedrock](https://img.shields.io/badge/AWS-Bedrock-orange)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
+![FAISS](https://img.shields.io/badge/vector-FAISS-yellow)
 
 # Bedrock RAG Minimal (Claude 3 Sonnet + Titan Embeddings + FAISS)
 
