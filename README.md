@@ -6,7 +6,7 @@
 
 # Bedrock RAG Minimal (Claude 3 Sonnet + Titan Embeddings + FAISS)
 
-간단한 RAG 실습:
+## 간단한 RAG 실습:
 - **LLM**: `anthropic.claude-3-sonnet-20240229-v1:0`
 - **Embedding**: `amazon.titan-embed-text-v1` (1536d)
 - **Vector DB**: FAISS (IndexFlatIP, cosine)
